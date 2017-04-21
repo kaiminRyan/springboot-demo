@@ -1,0 +1,10 @@
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/config/MasterDataSourceConfig.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/Application.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/config/ClusterDataSourceConfig.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/service/Impl/UserServiceImpl.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/controller/UserResultController.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/dao/CityDao.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/dao/UserDao.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/domain/City.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/service/UserService.java
+/Users/lihaiqin/studyplace/springboot/multidatasource/src/main/java/com/ryan/springboot/domain/User.java

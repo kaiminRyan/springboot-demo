@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+# 先配置主数据源
+cluster.datasource.url: jdbc:mysql://115.28.145.220:3306/springboot?useUnicode=true&characterEncoding=utf8
+cluster.datasource.username: root
+cluster.datasource.password: Q123456p
+cluster.datasource.diverClassName: com.mysql.jdbc.Driver
+
+# 配置从数据源
+master.datasource.url: jdbc:mysql://115.28.145.220:3306/springboot_cluster?useUnicode=true&characterEncoding=utf8
+master.datasource.username: root
+master.datasource.password: Q123456p
+master.datasource.diverClassName: com.mysql.jdbc.Driver
+#
+#master.datasource.url: jdbc:mysql://115.28.145.220:3306/springboot?useUnicode=true&characterEncoding=utf8
+#master.datasource.username: root
+#master.datasource.password: Q123456p
+#master.datasource.diverClassName: com.mysql.jdbc.Driver
+#
+## 配置从数据源
+#cluster.datasource.url: jdbc:mysql://115.28.145.220:3306/springboot_cluster?useUnicode=true&characterEncoding=utf8
+#cluster.datasource.username: root
+#cluster.datasource.password: Q123456p
+#cluster.datasource.diverClassName: com.mysql.jdbc.Driver
